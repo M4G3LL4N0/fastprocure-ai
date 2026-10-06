@@ -1,0 +1,44 @@
+# Fastprocure Ai
+
+> **STATUS: UNDOCUMENTED** — this README was generated from the repository's own contents. It records what is present, not what the project intends to become.
+
+## Purpose
+
+Startup portfolio: fastprocure-ai
+
+## What is in this repository
+
+Files present at the repository root:
+
+- `.env.example`
+- `.npmrc`
+- `app`
+- `components`
+- `eslint.config.mjs`
+- `lib`
+- `next.config.ts`
+- `package.json`
+- `pnpm-lock.yaml`
+- `pnpm-workspace.yaml`
+- `postcss.config.mjs`
+- `prisma`
+- `public`
+- `public-site`
+- `tsconfig.json`
+
+## Engineering status
+
+| property | value |
+| --- | --- |
+| Primary language | TypeScript |
+| License | not recorded |
+| Last push | 2026-10-01 |
+| Topics | none set |
+| Test suite | not established — no test evidence has been measured |
+| CI | not established — no CI evidence has been measured |
+
+Nothing in this table is inferred. Where a value could not be read from the repository it says so.
+
+## Notes
+
+This repository predates the current documentation standard. The README above is intentionally minimal and factual rather than promotional: it would be easy to write an impressive description here, and nothing in this repository would make it true.
